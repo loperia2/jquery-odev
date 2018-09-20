@@ -1,0 +1,20 @@
+.height-500{
+	height: 500px;
+}
+.btns{
+	position: relative;
+	z-index: 2;
+	background: black;
+	color:white;	
+	margin-top:-30%; 
+}
+.bt-l{
+	float: left;
+}
+.bt-r{
+	float: right;
+}
+img{
+	margin-left: 13%;
+	margin-right: 13%;
+}
